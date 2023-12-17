@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+          <option value="orangeHRMCucumberAutomation" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="ch.qos.logback:logback-classic:1.0.13" />
+          <option value="ch.qos.logback:logback-core:1.0.13" />
+          <option value="org.apache.ant:ant:1.8.3" />
+          <option value="org.mortbay.jetty:jetty-util:6.1.14" />
+          <option value="org.mortbay.jetty:jetty:6.1.14" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.13.2.2" />
+          <option value="junit:junit:4.12" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
